@@ -1,2 +1,1 @@
-# Coplaur-Theme
-Coplaur Theme WordPress
+#COPLAUR theme in WordPress
